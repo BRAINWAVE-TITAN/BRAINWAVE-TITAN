@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vansh (Brainwave-Titan)</h1>
 <h3 align="center">I'm a Student, Developer and Freelancer!!!</h3>
-
-<img align=“right” alt=“coding” width=“400” src=“https://raw.githubusercontent.com/Shuvo1260/shuvo1260/main/images/coding-boy.gif”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brainwave-titan&label=Profile%20views&color=0e75b6&style=flat" alt="brainwave-titan" /> </p>
 
 - 🌱 I’m currently learning **Cloud Computing,Data Science**
