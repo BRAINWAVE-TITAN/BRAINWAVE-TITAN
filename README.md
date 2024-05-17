@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web Development,Data Science,Blockchain**
 
-- 📫 How to reach me **vishnu.vs8789@gmail.com**
+- 📫 How to reach me **vansh.work24@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/126IGyzQcZZvcbQ9eA9wOYp3qelpDWn7N/view?usp=sharing](https://drive.google.com/file/d/126IGyzQcZZvcbQ9eA9wOYp3qelpDWn7N/view?usp=sharing)
 
